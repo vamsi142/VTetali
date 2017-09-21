@@ -2,4 +2,4 @@
 ## Vamsi Tetali
 *Vamsi Tetali's public GitHub repository* <br></br>
 * `this is inline code` <br></br>
-* ```this is a code block``` 
+* ```words = [w for w in ['hey', "how's", 'it', 'goin?'] if len(w) > 2]``` 
